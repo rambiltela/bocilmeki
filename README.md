@@ -1,2 +1,1 @@
-# bocilmeki
-bocilmeki
+# [bocilmeki](https://bocilmeki.pages.dev)
